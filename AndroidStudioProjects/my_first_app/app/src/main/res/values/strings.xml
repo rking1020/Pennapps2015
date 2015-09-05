@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">my_first_app</string>
+    <string name ="team_leader">Emilie Doyle is our team leader</string>
+    <string name = "edit_message">Edit your message here</string>
+    <string name = "button_send">Send</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name = "zachary">He no longer attends Temple University</string>
+</resources>
