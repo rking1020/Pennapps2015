@@ -1,4 +1,4 @@
-package teamstrugglebus.learning_buttons;
+package com.realco.claire.practice;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
